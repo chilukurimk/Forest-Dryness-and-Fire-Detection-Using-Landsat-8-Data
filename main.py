@@ -33,12 +33,12 @@ m.add_layer(dataset, visualization, 'True Color (432)')
 m
 
 
---------------------------------------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------------------------------------
 
 
 
-import ee
-import geemap.core as geemap
+# import ee
+# import geemap.core as geemap
 
 # Authenticate and initialize the Earth Engine library
 ee.Initialize(project='Project-ID')
